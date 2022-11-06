@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mete Han MENGEN - Civil Engineer & Junior Back-End Developer From Turkey
-- 🌱 I’m currently learning Java Spring Boot, Android and JavaScript
+- 🌱 I’m currently learning Java Spring Boot and Android
 .
 - 📫 How to reach me metehanmengen@gmail.com
 - 🥅 2022 Goals: Learn more about Java and Back-End technologies
