@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mete Han Mengen</h1>
+<h1 align="center">Hi 👋, I'm Mete Han</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <h3 align="center"> 🌱 I’m currently learning Java - Spring Boot and Android</h3>
 
