@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mete Han Mengen</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-<h3 align="center"> 🌱 I’m currently learning Java Spring Boot and Android</h3>
+<h3 align="center"> 🌱 I’m currently learning Java - Spring Boot and Android</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mengenmetehan&label=Profile%20views&color=0e75b6&style=flat" alt="mengenmetehan" /> </p>
 
